@@ -3,7 +3,7 @@
 # How it works?
 
 ## System Architecture: Sequence and Activity Diagrams
-![Diagram](https://github.com/developerisnow/real_estate_dapp/blob/main/_docs/img/sequence.png?raw=true)
+![Diagram](https://github.com/developerisnow/discord_web3_simple/blob/main/_docs/img/sequence.png?raw=true)
 
 ### Overview
 The Dappscord platform integrates blockchain technology to provide a secure and interactive communication space where users must mint NFTs to access different chat channels. This section outlines the sequence of actions and activities that occur from the moment a user connects their wallet to when they can actively participate in a channel.
@@ -23,7 +23,7 @@ wallet to the Dappscord platform.
 5. Channel Participation: Once access is granted, the user utilizes Socket.io to join the channel and is enabled to read and send messages, engaging with the community.
 
 The sequence diagram is crucial for understanding the interaction order and the role each component plays in facilitating NFT-based access control.
-![Diagram](https://github.com/developerisnow/real_estate_dapp/blob/main/_docs/img/activity.png?raw=true)
+![Diagram](https://github.com/developerisnow/discord_web3_simple/blob/main/_docs/img/activity.png?raw=true)
 
 ## Technology Stack & Tools
 
